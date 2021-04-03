@@ -1,4 +1,3 @@
 pycaret==2.3.0
 streamlit
-pickle
 imblearn
