@@ -15,7 +15,7 @@ def predict(model, input_df):
 def run():
 
     from PIL import Image
-    image = Image.open('campaign-1.jpg')
+    #image = Image.open('logo.jpg')
     image_camp = Image.open('campaign-1.jpg')
 
     #st.image(image,use_column_width=False)
