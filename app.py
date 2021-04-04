@@ -62,9 +62,9 @@ def run():
         if st.button("Predict"):
             output = predict(model=model, input_df=input_df)
         if output == 1:
-            res = "Success!"
+            res = "Profitable"
         else:
-            res = "Failure"
+            res = "Not profitable"
 
         st.success('The outcome is {}'.format(res))
 
