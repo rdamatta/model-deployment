@@ -52,7 +52,7 @@ def run():
         input17 = st.number_input('Input #17', min_value=0, max_value=4, value=4)
         input18 = st.number_input('Input #18', min_value=0, max_value=4, value=4)
         input19 = st.number_input('Input #19', min_value=0, max_value=1, value=1)
-        input20 = st.number_input('fInput #20', min_value=0, max_value=1, value=1)
+        input20 = st.number_input('Input #20', min_value=0, max_value=1, value=1)
 
         output=""
 
